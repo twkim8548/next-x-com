@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main >
-      홈 페이지
+      트윗 페이지
     </main>
   )
 }

@@ -66,12 +66,10 @@
 .input {
     width: 100%;
     border: none;
-    background: transparent;
     font-size: 17px;
     margin-top: 16px;
     padding: 12px 8px 8px;
     outline: none;
-    color:black;
 }
 
 .modalFooter {
